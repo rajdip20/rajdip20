@@ -1,3 +1,7 @@
+[![MasterHead](https://user-images.githubusercontent.com/67902295/225240357-dd42fe71-fc39-42e4-9ca0-72ce0e5208f9.png)](rajdipdas.io)
+
+
+
 <h1 align="center">Hi 👋, I'm Rajdip Das</h1>
 <h3 align="center">A passionate Machine Learning and Data Science Engineer from India</h3>
 
@@ -6,6 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdip20" alt="rajdip20" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajdipd94183048" target="blank"><img src="https://img.shields.io/twitter/follow/rajdipd94183048?logo=twitter&style=for-the-badge" alt="rajdipd94183048" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🔭 I’m currently working on [Recall Machine learning Skill](https://github.com/rajdip20/code-recall)
 
