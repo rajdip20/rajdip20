@@ -26,6 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/rajdipd94183048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajdipd94183048" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rajdip-das-76021644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajdip-das-76021644" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/gameszone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gameszone" height="30" width="40" /></a>
 <a href="https://fb.com/rajdip.das.artemis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajdip.das.artemis" height="30" width="40" /></a>
 <a href="https://instagram.com/__hey_its_raj__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__hey_its_raj__" height="30" width="40" /></a>
 </p>
