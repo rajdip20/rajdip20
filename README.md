@@ -12,9 +12,9 @@
 <p align="left"> <a href="https://twitter.com/rajdipd94183048" target="blank"><img src="https://img.shields.io/twitter/follow/rajdipd94183048?logo=twitter&style=for-the-badge" alt="rajdipd94183048" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🔭 I’m currently working on [Recall Machine learning Skill](https://github.com/rajdip20/code-recall)
+- 🔭 I’m currently working on [Different Data Analysis Skills](https://github.com/rajdip20/code-recall)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Machine Learning, SQL**
 
 - 💬 Ask me about **Data Science**
 
