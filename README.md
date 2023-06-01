@@ -38,6 +38,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdip20&layout=donut&theme=radical&line_height=27" alt="rajdip20" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdip20&show_icons=true&locale=en&theme=radical" alt="rajdip20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdip20&show_icons=true&locale=en&theme=blue-green" alt="rajdip20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdip20&theme=radical" alt="rajdip20" /></p>
