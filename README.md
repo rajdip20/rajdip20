@@ -40,4 +40,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdip20&show_icons=true&locale=en&theme=graywhite" alt="rajdip20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdip20&theme=radical" alt="rajdip20" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdip20&theme=radical" alt="rajdip20" /></p> -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rajdip20&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=FF0D2E&stroke=1B1CEB&dates=EB5454" alt="rajdip20" /></p>
