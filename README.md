@@ -12,15 +12,15 @@
 <p align="left"> <a href="https://twitter.com/rajdipd94183048" target="blank"><img src="https://img.shields.io/twitter/follow/rajdipd94183048?logo=twitter&style=for-the-badge" alt="rajdipd94183048" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🔭 I’m currently working on [Different Data Analysis Skills](https://github.com/rajdip20/code-recall)
+- 🔭 I’m currently working on [Data Structure and Algorithms](https://github.com/rajdip20/DS-with-Java)
 
-- 🌱 I’m currently learning **Machine Learning, SQL**
+- 🌱 I’m currently learning **Data Structures with Java**
 
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **DS & ML**
 
 - 📫 How to reach me **dasrajdip78754282@gmail.com**
 
-- ⚡ Fun fact **I am funny 😆**
+- ⚡ Fun fact **Life Hard still we have to Survive. 😐😶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
