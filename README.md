@@ -1,5 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/67902295/225240357-dd42fe71-fc39-42e4-9ca0-72ce0e5208f9.png)](rajdipdas.io)
-
+<!-- [![MasterHead](https://user-images.githubusercontent.com/67902295/225240357-dd42fe71-fc39-42e4-9ca0-72ce0e5208f9.png)](rajdipdas.io) -->
+[![An image of @rajdip20's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajdip20)](https://holopin.io/@rajdip20)
 
 
 <h1 align="center">Hi 👋, I'm Rajdip Das</h1>
